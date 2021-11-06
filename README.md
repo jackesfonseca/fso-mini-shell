@@ -1,5 +1,5 @@
 # Mini Shell - FSO
-A program that simulates a shell with very basic features. Accepted 
+A program that simulates a shell with very basic features. Accept 
 the path of a program with a required argument and print
 the output of the program entered by the user without a terminal. Example:
 
@@ -23,7 +23,7 @@ ou o [video](https://www.youtube.com/watch?v=cHcr1EZdFao) with a breef demonstra
 
 
 ## Playing with mini-shell
-Open the bash and run:
+Open the terminal and run:
 
     gcc mini_shell.c -O2 -static -lm
 
@@ -31,7 +31,11 @@ Igonore the warning and start the program:
 
     ./mini_shell.out
 
-Test with some commands:
+In another terminal try with redirect:
+
+    ./mini_shell.out < red.txt
+
+Try with some commands:
 
     /usr/bin/ls .
     /usr/bin/ls /
