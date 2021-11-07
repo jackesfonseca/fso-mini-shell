@@ -19,7 +19,7 @@ The output will be:
 For more information on the problem statement, see the 
 [PDF](https://moj.naquadah.com.br/contests/bcr-FSO-2021_1-trabalho-001/fso-timedshell.pdf), the 
 [page](https://moj.naquadah.com.br/contests/bcr-FSO-2021_1-trabalho-001/fso-timedshell.html)
-ou o [video](https://www.youtube.com/watch?v=cHcr1EZdFao) with a breef demonstration (starts on 14:27).
+or the [video](https://www.youtube.com/watch?v=cHcr1EZdFao) with a breef demonstration (starts on 14:27).
 
 
 ## Playing with mini-shell
